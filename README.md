@@ -19,6 +19,14 @@ implementation 'com.android.support:design:27.1.1'
 
 ### 5. Set Activity Theme AppTheme.NoActionBar
 
+### 6. Optional: Toolbar add with Activity:
+```
+Toolbar toolbar  =  findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        toolbar.setTitle("Home");
+```
+
+
 # Quick Add snippets;
 
 ## Styles:
