@@ -17,6 +17,8 @@ implementation 'com.android.support:design:27.1.1'
 
 ```
 
+### 5. Set Activity Theme AppTheme.NoActionBar
+
 # Quick Add snippets;
 
 ## Styles:
